@@ -21,7 +21,7 @@
     "url": "git+https://github.com/tiangaohaikuo/react-native-art-charts.git"
   },
   "author": "tiangaohaikuo",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/tiangaohaikuo/react-native-art-charts/issues"
   },
