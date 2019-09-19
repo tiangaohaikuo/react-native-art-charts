@@ -1,0 +1,29 @@
+{
+  "name": "react-native-art-charts",
+  "version": "1.0.0",
+  "description": "基于react-native-art封装的简单图表库",
+  "keywords": [
+    "react-native",
+    "react-native-art",
+    "react-native-art-chart",
+    "react-native-art-charts",
+    "react-native-chart",
+    "react-native-charts",
+    "chart",
+    "charts"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiangaohaikuo/react-native-art-charts.git"
+  },
+  "author": "tiangaohaikuo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiangaohaikuo/react-native-art-charts/issues"
+  },
+  "homepage": "https://github.com/tiangaohaikuo/react-native-art-charts#readme"
+}
